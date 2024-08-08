@@ -38,9 +38,9 @@
 <p align="left">
 
 
-<a href = "https://www.linkedin.com/in/shafaetjsr/"><img width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>Md. Shafaet Hossain</a>
+<a href = ""/>JOHERUL HOQUE</a>
   
- <a href = "https://www.facebook.com/shafaetjsr"><img width="30px" src="https://img.icons8.com/color/344/facebook-new.png"/>Md. Shafaet Hossain</a> 
+ <a href = "/>JOHERUL HOQUE</a> 
 
 
 
