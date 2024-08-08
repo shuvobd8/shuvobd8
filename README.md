@@ -35,20 +35,8 @@
 
 
 ## Connect with me:
-<p align="left">
-
-
-<a href = ""/>JOHERUL HOQUE</a>
-  
- <a href = "/>JOHERUL HOQUE</a> 
 
 
 
-
-</p>
 
 ### Views and Followers
-<a href="https://github.com/tanvirahmed007/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=shafaetjsr">
-</a>
-<a href="https://github.com/shafaetjsr?tab=followers"><img src="https://img.shields.io/github/followers/shafaetjsr?label=Followers&style=social" alt="GitHub Badge"></a>
