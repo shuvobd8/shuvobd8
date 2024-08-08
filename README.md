@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Md. Shafaet Hossain</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, JOHERUL HOQUE</h1>
 <h3 align="center">I'm a passionate Software Engineer</h3>
 
 
@@ -7,11 +7,11 @@
 - 🔭 I’m currently working as a Software Engineer at **[Flora Systems](https://floralimited.com/)**
 
 
-- 🔭 I’m currently working on **[.NET Core](https://github.com/shafaetjsr)**
+- 🔭 I’m currently working on **[.NET Core](https://github.com/shuvobd8)**
   
-- 🌱 I’m currently learning **[ASP.NET](https://learn.microsoft.com/en-us/users/shafaetjsr)**
+- 🌱 I’m currently learning **[ASP.NET]**
 
-- 📫 How to reach me **shafaetjsr@gmail.com**
+- 📫 How to reach me **joherulhoq@gmail.com**
 
 - ⚡ Fun fact **Watch movies or hang out with friends.**
   
@@ -26,7 +26,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href=""><img alt="Md. Shafaet Hossain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shafaetjsr&show_icons=true&theme=radical" /></a>
+    <a href=""><img alt="JOHERUL HOQUE Github Stats"></a>
   
   <br/>
   <br/>
